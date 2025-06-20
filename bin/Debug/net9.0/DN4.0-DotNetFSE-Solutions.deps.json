@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DN4.0-DotNetFSE-Solutions/1.0.0": {
+        "runtime": {
+          "DN4.0-DotNetFSE-Solutions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DN4.0-DotNetFSE-Solutions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

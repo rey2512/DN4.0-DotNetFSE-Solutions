@@ -1,0 +1,15 @@
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\bin\Debug\net9.0\DN4.0-DotNetFSE-Solutions.exe
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\bin\Debug\net9.0\DN4.0-DotNetFSE-Solutions.deps.json
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\bin\Debug\net9.0\DN4.0-DotNetFSE-Solutions.runtimeconfig.json
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\bin\Debug\net9.0\DN4.0-DotNetFSE-Solutions.dll
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\bin\Debug\net9.0\DN4.0-DotNetFSE-Solutions.pdb
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\obj\Debug\net9.0\DN4.0-DotNetFSE-Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\obj\Debug\net9.0\DN4.0-DotNetFSE-Solutions.AssemblyInfoInputs.cache
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\obj\Debug\net9.0\DN4.0-DotNetFSE-Solutions.AssemblyInfo.cs
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\obj\Debug\net9.0\DN4.0-DotNetFSE-Solutions.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\obj\Debug\net9.0\DN4.0-DotNetFSE-Solutions.sourcelink.json
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\obj\Debug\net9.0\DN4.0-DotNetFSE-Solutions.dll
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\obj\Debug\net9.0\refint\DN4.0-DotNetFSE-Solutions.dll
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\obj\Debug\net9.0\DN4.0-DotNetFSE-Solutions.pdb
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\obj\Debug\net9.0\DN4.0-DotNetFSE-Solutions.genruntimeconfig.cache
+C:\Users\KIIT\.vscode\Desktop\DN4.0-DotNetFSE-Solutions\obj\Debug\net9.0\ref\DN4.0-DotNetFSE-Solutions.dll
