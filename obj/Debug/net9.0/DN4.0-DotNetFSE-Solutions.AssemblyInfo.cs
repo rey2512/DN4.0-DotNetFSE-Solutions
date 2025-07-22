@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DN4.0-DotNetFSE-Solutions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64ce5f24b1683827860bc2c58ffc7a09801f6efb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6220b12e742d35013f49cf7e9db57f56740d6954")]
 [assembly: System.Reflection.AssemblyProductAttribute("DN4.0-DotNetFSE-Solutions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DN4.0-DotNetFSE-Solutions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
